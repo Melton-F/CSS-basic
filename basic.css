@@ -1,0 +1,128 @@
+li
+{
+    text-transform: capitalize;
+}
+a{
+    text-decoration:underline;
+}
+#this{
+    text-decoration: underline;
+}
+#line_melae{
+    text-decoration: overline;
+}
+#striking{
+    text-decoration: line-through;
+}
+#simittu{
+    text-decoration: blink;
+}
+#more{
+    text-decoration: underline overline line-through ;
+}
+#left_mve{
+    text-align: left;
+}
+#right_mve{
+    text-align: right;
+}
+#center_mve{
+    text-align: center;
+}
+#justify_mve{
+    text-align: justify;
+}
+#justify_diz{
+    text-align:justify;
+}
+img{
+    vertical-align:text-top;
+}
+em{
+    font-size: 2em;
+    vertical-align:middle;
+    text-transform: uppercase;
+}
+h2{
+    letter-spacing: 2em;
+    word-spacing: 2em;
+}
+h3{
+    word-spacing: 2em;
+}
+#fst_para{
+    text-indent: 20px;
+}
+#Snd_para{
+    text-indent: 50px;
+}
+#fst-letter::first-letter{
+    font-size: 2em;
+    font-style: oblique;
+}
+#fst-letter{
+    text-indent: 2em;
+}
+#fst_para::first-line{
+    color: blue;
+}
+.warning{
+    color: red;
+}
+.good{
+    color: blue;
+}
+a:link{
+    color: blueviolet;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: brown;
+}
+a:focus{
+    color: darkgoldenrod;
+}
+#sendit:hover{
+    color:darkred;
+}
+#sendit:focus{
+    color: green;
+}
+#send:hover{
+    color: darkslateblue;
+}
+#send:focus{
+    color: hotpink;
+}
+#right{
+    text-shadow: -4px 0 0;
+}
+#left{
+    text-shadow: 4px 0 0;
+}
+#top{
+    text-shadow: 0 -4px 0;
+}
+#bottom{
+    text-shadow: 0 4px 0;
+}
+#blur{
+    text-shadow: 0 0 4px;
+}
+#color{
+    text-shadow: 0 4px 0 #FF0000;
+}
+#combine{
+    text-shadow: 2px 4px 3px rgb(153, 153, 153);
+}
+#warning{
+    color: chartreuse;
+}
+#something{
+    color: #FF0000;
+}
+body{
+    font-family: 'Edu VIC WA NT Beginner';
+}
